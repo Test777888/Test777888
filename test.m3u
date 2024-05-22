@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz,https://iptvx.one/EPG"
 #EXTINF:-1,|DE| DAS ERSTE HD (ARD)
 http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55674
 #EXTINF:-1,|DE| DAS ERSTE (ARD)
