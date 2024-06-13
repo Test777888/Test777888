@@ -1,723 +1,535 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" tvg-shift="+3" abs="true"
-#EXTINF:-1 group-title="Allgemein HD",|DE| DAS ERSTE HD (ARD)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55674
-#EXTINF:-1 group-title="Allgemein HD",|DE| DAS ERSTE (ARD)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55675
-#EXTINF:-1 group-title="Allgemein HD",|DE| ARTE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55676
-#EXTINF:-1 group-title="Allgemein HD",|DE| 3 SAT
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55677
-#EXTINF:-1 group-title="Allgemein HD",|DE| ARD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55678
-#EXTINF:-1 group-title="Allgemein HD",|DE| ZDF HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55679
-#EXTINF:-1 group-title="Allgemein HD",|DE| ZDF
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55680
-#EXTINF:-1 group-title="Allgemein HD",|DE| ZDF NEO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55681
-#EXTINF:-1 group-title="Allgemein HD",|DE| RTL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55682
-#EXTINF:-1 group-title="Allgemein HD",|DE| RTLII HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55683
-#EXTINF:-1 group-title="Allgemein HD",|DE| RTLUP HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55686
-#EXTINF:-1 group-title="Allgemein HD",|DE| RTL NITRO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55687
-#EXTINF:-1 group-title="Allgemein HD",|DE| SIXX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55688
-#EXTINF:-1 group-title="Allgemein HD",|DE| PROSIEBEN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55689
-#EXTINF:-1 group-title="Allgemein HD",|DE| PRO7 MAXX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55690
-#EXTINF:-1 group-title="Allgemein HD",|DE| PRO 7 FUN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/395628
-#EXTINF:-1 group-title="Allgemein HD",|DE| SAT.1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55691
-#EXTINF:-1 group-title="Allgemein HD",|DE| SAT.1 GOLD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55692
-#EXTINF:-1 group-title="Allgemein HD",|DE| SAT 1 EMOTIONS
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/199199
-#EXTINF:-1 group-title="Allgemein HD",|DE| VOX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55693
-#EXTINF:-1 group-title="Allgemein HD",|DE| VOX
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55694
-#EXTINF:-1 group-title="Allgemein HD",|DE| PHOENIX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55695
-#EXTINF:-1 group-title="Allgemein HD",|DE| KABEL EINS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55696
-#EXTINF:-1 group-title="Allgemein HD",|DE| KABEL EINS CLASSICS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55697
-#EXTINF:-1 group-title="Allgemein HD",|DE| TELE 5 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55698
-#EXTINF:-1 group-title="Allgemein HD",|DE| ANIXE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55699
-#EXTINF:-1 group-title="Allgemein HD",|DE| DMAX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55700
-#EXTINF:-1 group-title="Allgemein HD",|DE| ONE 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55701
-#EXTINF:-1 group-title="MAGENTA",===== MAGENTA =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 1(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230014
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 2(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230015
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 3(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230016
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 4(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230017
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 5(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230018
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 6(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230019
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 7(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230020
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 8(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230021
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 9(EVENT ONLY)   
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230022
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 10(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230023
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 11(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230024
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 12(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230025
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 13(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230026
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 14(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230027
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 15(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230028
-#EXTINF:-1 group-title="MAGENTA",|DE| MAGENTA SPORT 16(EVENT ONLY)  
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/230029
-#EXTINF:-1 group-title="Sport",===== SPORT =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT NEWS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55703
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT F1
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124231
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 1
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55704
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55705
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 2
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55706
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55707
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 3 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124232
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 4 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124233
-#EXTINF:-1 group-title="Sport",DE: SKY SPORT 5 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124234
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 6 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124235
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 7 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124236
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 8 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124237
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 9 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124238
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 10 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124239
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT 11 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/124240
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT PREMIER LEAGUE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193619
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT MIX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193618
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT TENNIS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193617
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT GOLF HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193616
-#EXTINF:-1 group-title="Sport",|DE| SKY SPORT TOP EVENT
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193615
-#EXTINF:-1 group-title="Sport",|DE| DAZN 1 BAR HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55708
-#EXTINF:-1 group-title="Sport",|DE| DAZN 2 BAR HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55709
-#EXTINF:-1 group-title="Sport",|DE| SPORT DIGITAL FUSSBALL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/200528
-#EXTINF:-1 group-title="Sport",|DE| FC BAYERN TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/200529
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55710
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55711
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55712
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55713
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55714
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55715
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55716
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55717
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55718
-#EXTINF:-1 group-title="Sport",|DE| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55719
-#EXTINF:-1 group-title="Sport",|DE| EUROSPORT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55720
-#EXTINF:-1 group-title="Sport",|DE| EUROSPORT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55721
-#EXTINF:-1 group-title="Sport",|DE| MOTORVISION TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55723
-#EXTINF:-1 group-title="Sport",|DE| SPORT1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55724
-#EXTINF:-1 group-title="Sport",DE: ESPORTS 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/201079
-#EXTINF:-1 group-title="Sport",|DE| PRIME 1 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157872
-#EXTINF:-1 group-title="Sport",|DE| PRIME 2 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157873
-#EXTINF:-1 group-title="Sport",|DE| PRIME 3 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157874
-#EXTINF:-1 group-title="Sport",|DE| PRIME 4 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157875
-#EXTINF:-1 group-title="Sport",|DE| PRIME 5 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157876
-#EXTINF:-1 group-title="Sport",|DE| PRIME 6 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157877
-#EXTINF:-1 group-title="Sport",|DE| PRIME 7 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157878
-#EXTINF:-1 group-title="Sport",|DE| PRIME 8 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157879
-#EXTINF:-1 group-title="Sport",|DE| DAZN 1 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157880
-#EXTINF:-1 group-title="Sport",|DE| DAZN 2 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157881
-#EXTINF:-1 group-title="Sport",|DE| DAZN 3 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157882
-#EXTINF:-1 group-title="Sport",|DE| DAZN 4 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157883
-#EXTINF:-1 group-title="Sport",|DE| DAZN 5 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157884
-#EXTINF:-1 group-title="Sport",|DE| DAZN 6 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157885
-#EXTINF:-1 group-title="Sport",|DE| DAZN 7 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157886
-#EXTINF:-1 group-title="Sport",|DE| DAZN 8 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157887
-#EXTINF:-1 group-title="Sport",|DE| DAZN 9 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157888
-#EXTINF:-1 group-title="Sport",|DE| DAZN 10 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157889
-#EXTINF:-1 group-title="Sport",|DE| DAZN 11 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157890
-#EXTINF:-1 group-title="Sport",|DE| DAZN 12 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157891
-#EXTINF:-1 group-title="Sport",|DE| DAZN 13 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157892
-#EXTINF:-1 group-title="Sport",|DE| DAZN 14 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157893
-#EXTINF:-1 group-title="Sport",|DE| DAZN 15 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157894
-#EXTINF:-1 group-title="Sport",|DE| DAZN 16 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157895
-#EXTINF:-1 group-title="Sport",|DE| DAZN 17 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157896
-#EXTINF:-1 group-title="Sport",|DE| DAZN 18 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157897
-#EXTINF:-1 group-title="Sport",|DE| DAZN 19 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157898
-#EXTINF:-1 group-title="Sport",|DE| DAZN 20 HD [LIVE-EVENT]
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/157899
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 1 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202829
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 2 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202830
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 3 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202831
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 4 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202832
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 5 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202833
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 6 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202834
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 7 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202835
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 8 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202836
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 9 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202837
-#EXTINF:-1 group-title="Sport",DE: RTL+ SPORT 10 (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202838
-#EXTINF:-1 group-title="Musik",===== MUSIK =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Musik",|DE| JUKEBOX
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55726
-#EXTINF:-1 group-title="Musik",|DE| CLASSICA
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55727
-#EXTINF:-1 group-title="Musik",|DE| MTV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55728
-#EXTINF:-1 group-title="Dokumentar",===== DOKUMENTAR =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Dokumentar",|DE| DISCOVERY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55730
-#EXTINF:-1 group-title="Dokumentar",|DE| SKY NATURE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193066
-#EXTINF:-1 group-title="Dokumentar",|DE| SKY REPLAY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193040
-#EXTINF:-1 group-title="Dokumentar",|DE| SKY REPLAY FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193039
-#EXTINF:-1 group-title="Dokumentar",|DE| HISTORY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55732
-#EXTINF:-1 group-title="Dokumentar",|DE| NATGEO HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55733
-#EXTINF:-1 group-title="Dokumentar",|DE| NAT GEO WILD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55734
-#EXTINF:-1 group-title="Dokumentar",|DE| TLC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55735
-#EXTINF:-1 group-title="Dokumentar",|DE| RTL LIVING
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55736
-#EXTINF:-1 group-title="Dokumentar",|DE| SPIEGEL GESCHICHTE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55737
-#EXTINF:-1 group-title="Dokumentar",|DE| DELUXE MUSIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55738
-#EXTINF:-1 group-title="Dokumentar",|DE| BON GUSTO HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194738
-#EXTINF:-1 group-title="Dokumentar",|DE| GEO TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194737
-#EXTINF:-1 group-title="Dokumentar",|DE| ANIMAL PLANET HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194736
-#EXTINF:-1 group-title="Dokumentar",|DE| SKY DOCUMENTARIES HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194735
-#EXTINF:-1 group-title="Regional",===== DE: REGIONALEN =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Regional",|DE| 123TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55740
-#EXTINF:-1 group-title="Regional",|DE| HSE24 EXTRA HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55741
-#EXTINF:-1 group-title="Regional",|DE| HSE24 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55742
-#EXTINF:-1 group-title="Regional",|DE| NITRO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55750
-#EXTINF:-1 group-title="Regional",|DE| QVC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55752
-#EXTINF:-1 group-title="Regional",|DE| SERVUSTV HD DEUTSCHLAND
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55754
-#EXTINF:-1 group-title="Regional",|DE-4K| RBB BERLIN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55755
-#EXTINF:-1 group-title="Regional",|DE| RBB BRANDENBURG HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55756
-#EXTINF:-1 group-title="Regional",|DE| SONNENKLAR.TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55757
-#EXTINF:-1 group-title="Regional",|DE-4K| SWR FERNSEHEN BW
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55758
-#EXTINF:-1 group-title="Regional",|DE| WDR HD AACHEN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55759
-#EXTINF:-1 group-title="Regional",|DE| WDR HD BONN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55760
-#EXTINF:-1 group-title="Regional",|DE| WDR HD DUISBURG
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55761
-#EXTINF:-1 group-title="Regional",|DE| WDR HD WUPPERTAL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55762
-#EXTINF:-1 group-title="Jugend",===== JUGEND =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Jugend",|DE| BOOMERANG
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55764
-#EXTINF:-1 group-title="Jugend",|DE| SUPER RTL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55765
-#EXTINF:-1 group-title="Jugend",|DE| CARTOON NETWORK
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55766
-#EXTINF:-1 group-title="Jugend",|DE| DISNEY CHANNEL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55767
-#EXTINF:-1 group-title="Jugend",|DE| KIKA
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55768
-#EXTINF:-1 group-title="Jugend",|DE| DISNEY CINEMAGIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55769
-#EXTINF:-1 group-title="Jugend",|DE| COMEDY CENTRAL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55771
-#EXTINF:-1 group-title="Jugend",|DE| NICKELODEON HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55772
-#EXTINF:-1 group-title="Nachrichten",===== NACHRICHTEN =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Nachrichten",|DE| N-TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55774
-#EXTINF:-1 group-title="Nachrichten",|DE| N-TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55775
-#EXTINF:-1 group-title="Nachrichten",|DE| EURONEWS FRENCH
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55777
-#EXTINF:-1 group-title="Nachrichten",|DE| EURONEWS GERMAN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55778
-#EXTINF:-1 group-title="Nachrichten",|DE| WELT HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55779
-#EXTINF:-1 group-title="Unterhaltung",===== UNTERHALTUNG =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Unterhaltung",|DE| SYFY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55781
-#EXTINF:-1 group-title="Unterhaltung",|DE| 13TH STREET HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55784
-#EXTINF:-1 group-title="Unterhaltung",|DE| HEIMATKANAL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55785
-#EXTINF:-1 group-title="Unterhaltung",|DE| KINOWELT TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55786
-#EXTINF:-1 group-title="Unterhaltung",|DE| RTL CRIME HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55787
-#EXTINF:-1 group-title="Unterhaltung",|DE| RTL PASSION HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55788
-#EXTINF:-1 group-title="Unterhaltung",|DE| ROMANCE TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55789
-#EXTINF:-1 group-title="Kino HD",===== KINO HD =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA PREMIEREN  24 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55793
-#EXTINF:-1 group-title="Kino HD",|DE| SKY ATLANTIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55794
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA CLASSIC
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55795
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA +24 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55796
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA ACTION HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55797
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA ACTION
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55798
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA FAMILY
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55801
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA PREMIEREN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55802
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA PREMIEREN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55803
-#EXTINF:-1 group-title="Kino HD",|DE| Sky Cinema Fun
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55804
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA THRILLER HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55805
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA SPECIAL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55806
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CINEMA FAMILY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55807
-#EXTINF:-1 group-title="Kino HD",|DE| SKY KRIMI
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55808
-#EXTINF:-1 group-title="Kino HD",|DE| SKY BEST OF
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55824
-#EXTINF:-1 group-title="Kino HD",|DE| SKY ONE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55825
-#EXTINF:-1 group-title="Kino HD",|DE| SKY COMEDY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193550
-#EXTINF:-1 group-title="Kino HD",|DE| SKY CRIME HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193551
-#EXTINF:-1 group-title="Kino HD",|DE| TNT COMEDY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55809
-#EXTINF:-1 group-title="Kino HD",|DE| TNT FILM HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55810
-#EXTINF:-1 group-title="Kino HD",|DE| UNIVERSAL CHANNEL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55811
-#EXTINF:-1 group-title="Kino HD",|DE| SONY TV FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193553
-#EXTINF:-1 group-title="Kino HD",|DE-4K| SONY AXN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193552
-#EXTINF:-1 group-title="SKY SELECT",===== SKY SELECT =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55814
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55815
-#EXTINF:-1 group-title="SKY SELECT",|DE|  SKY SELECT 3 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55816
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 4 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55817
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 5 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55818
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 6 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55819
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 7 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55820
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 8 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55821
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY SELECT 9 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55822
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY BEST OF HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/55823
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118080
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118081
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 3 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118082
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 4 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118083
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 5 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118084
-#EXTINF:-1 group-title="SKY SELECT",|DE| SKY POPCORN SELECT 6 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/118085
-#EXTINF:-1 group-title="EAGLE",===== EAGLE =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="EAGLE",|DE| EAGLE CINEMA PREMIERE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193062
-#EXTINF:-1 group-title="EAGLE",|DE| EAGLE CINEMA GESCHICHTE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193056
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN SPOTLIGHT
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193048
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN REVRY
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193047
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN TOP FREE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193046
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN TV SHOWS
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193045
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN ACTION MOVIES
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193044
-#EXTINF:-1 group-title="EAGLE",|DE| RAKUTEN COMEDY MOVIES
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193043
-#EXTINF:-1 group-title="4K",===== GERMANY 4K ===== 
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="4K",DE-4K: DAS ERSTE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116362
-#EXTINF:-1 group-title="4K",DE-4K: DAS ERSTE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116363
-#EXTINF:-1 group-title="4K",DE-4K: ARTE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116364
-#EXTINF:-1 group-title="4K",DE-4K: 3SAT
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116365
-#EXTINF:-1 group-title="4K",DE-4K: ARD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116366
-#EXTINF:-1 group-title="4K",DE-4K: ZDF HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116367
-#EXTINF:-1 group-title="4K",DE-4K: ZDF INFO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116369
-#EXTINF:-1 group-title="4K",DE-4K: ZDF NEO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116370
-#EXTINF:-1 group-title="4K",DE-4K: RTL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116371
-#EXTINF:-1 group-title="4K",DE-4K: RTLII HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116372
-#EXTINF:-1 group-title="4K",DE-4K: RTL TELEVISION
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116373
-#EXTINF:-1 group-title="4K",DE-4K: RTL PLUS
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116375
-#EXTINF:-1 group-title="4K",DE-4K: SIXX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116376
-#EXTINF:-1 group-title="4K",DE-4K: PROSIEBEN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116377
-#EXTINF:-1 group-title="4K",DE-4K: PRO7 MAXX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116378
-#EXTINF:-1 group-title="4K",DE-4K: SAT.1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116380
-#EXTINF:-1 group-title="4K",DE-4K: SAT.1 GOLD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116382
-#EXTINF:-1 group-title="4K",DE-4K: SAT 1 EMOTIONS
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/199200
-#EXTINF:-1 group-title="4K",DE-4K: VOX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116383
-#EXTINF:-1 group-title="4K",DE-4K: PHOENIX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116385
-#EXTINF:-1 group-title="4K",DE-4K: KABEL EINS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116386
-#EXTINF:-1 group-title="4K",DE-4K: TELE 5 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116387
-#EXTINF:-1 group-title="4K",DE-4K: ANIXE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116388
-#EXTINF:-1 group-title="4K",DE-4K: DMAX HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116389
-#EXTINF:-1 group-title="Sport",===== SPORT  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT NEWS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116391
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT F1
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193049
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116393
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116395
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT PREMIER LEAGUE FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193624
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT MIX FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193623
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT TENNIS FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193622
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT GOLF FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193621
-#EXTINF:-1 group-title="Sport",DE-4K: SKY SPORT TOP EVENT FHD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193620
-#EXTINF:-1 group-title="Sport",DE-4K: DAZN 1 BAR HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116396
-#EXTINF:-1 group-title="Sport",DE-4K: DAZN 2 BAR HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116397
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116398
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116399
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116400
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116401
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116402
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116403
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116404
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116405
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116406
-#EXTINF:-1 group-title="Sport",DE-4K: BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116407
-#EXTINF:-1 group-title="Sport",DE-4K: EUROSPORT 1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116408
-#EXTINF:-1 group-title="Sport",DE-4K: EUROSPORT 2 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116409
-#EXTINF:-1 group-title="Sport",DE-4K: MOTORVISION TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116411
-#EXTINF:-1 group-title="Sport",DE-4K: SPORT1 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116412
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 1 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202839
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 2 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202840
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 3 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202841
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 4 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202842
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 5 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202843
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 6 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202844
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 7 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202845
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 8 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202846
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 9 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202847
-#EXTINF:-1 group-title="Sport",DE-4K: RTL+ SPORT 10 HD (Event Only)
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/202848
-#EXTINF:-1 group-title="Musik",===== MUSIK  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Musik",DE-4K: JUKEBOX
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116414
-#EXTINF:-1 group-title="Musik",DE-4K: CLASSICA
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116415
-#EXTINF:-1 group-title="Musik",DE-4K: MTV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116416
-#EXTINF:-1 group-title="Musik",DE-4K: DELUXE MUSIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116417
-#EXTINF:-1 group-title="Dokumentar",===== DOKUMENTAR  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Dokumentar",DE-4K: SKY NATURE
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193042
-#EXTINF:-1 group-title="Dokumentar",DE-4K: SKY REPLAY
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/193041
-#EXTINF:-1 group-title="Dokumentar",DE-4K: DISCOVERY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116419
-#EXTINF:-1 group-title="Dokumentar",DE-4K: CRIME+  INVESTIGATION
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116421
-#EXTINF:-1 group-title="Dokumentar",DE-4K: HISTORY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116422
-#EXTINF:-1 group-title="Dokumentar",DE-4K: NAT GEO HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116423
-#EXTINF:-1 group-title="Dokumentar",DE-4K: NAT GEO WILD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116424
-#EXTINF:-1 group-title="Dokumentar",DE-4K: SPIEGEL GESCHICHTE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116426
-#EXTINF:-1 group-title="Dokumentar",DE-4K: TLC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116425
-#EXTINF:-1 group-title="Dokumentar",DE-4K: ANIMAL PLANET HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194740
-#EXTINF:-1 group-title="Dokumentar",DE-4K: SKY DOCUMENTARIES HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/194739
-#EXTINF:-1 group-title="Regional",===== REGIONALEN =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Regional",DE-4K: NDR FS SH HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116438
-#EXTINF:-1 group-title="Regional",DE-4K: NITRO
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116439
-#EXTINF:-1 group-title="Regional",DE-4K: SERVUSTV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116442
-#EXTINF:-1 group-title="Regional",DE-4K: RBB BERLIN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116443
-#EXTINF:-1 group-title="Regional",DE-4K: SWR FERNSEHEN BW
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116446
-#EXTINF:-1 group-title="Regional",DE-4K: WDR HD BONN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116448
-#EXTINF:-1 group-title="Regional",DE-4K: WDR HD WUPPERTAL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116450
-#EXTINF:-1 group-title="Nachrichten",=====  NACHRICHTEN  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Nachrichten",DE-4K: N-TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116461
-#EXTINF:-1 group-title="Nachrichten",DE-4K: N-TV HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116462
-#EXTINF:-1 group-title="Nachrichten",DE-4K: EURONEWS FRENCH
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116463
-#EXTINF:-1 group-title="Nachrichten",DE-4K: EURONEWS GERMAN
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116464
-#EXTINF:-1 group-title="Nachrichten",DE-4K: WELT HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116465
-#EXTINF:-1 group-title="Jugend",===== JUGEND  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Jugend",DE-4K: BOOMERANG
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116452
-#EXTINF:-1 group-title="Jugend",DE-4K: SUPER RTL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116453
-#EXTINF:-1 group-title="Jugend",DE-4K: CARTOON NETWORK
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116454
-#EXTINF:-1 group-title="Jugend",DE-4K: DISNEY CHANNEL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116455
-#EXTINF:-1 group-title="Jugend",DE-4K: KIKA
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116456
-#EXTINF:-1 group-title="Jugend",DE-4K: DISNEY CINEMAGIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116457
-#EXTINF:-1 group-title="Jugend",DE-4K: COMEDY CENTRAL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116458
-#EXTINF:-1 group-title="Jugend",DE-4K: NICK+ /MTV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116459
-#EXTINF:-1 group-title="Kino HD",=====  KINO HD =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA CLASSIC
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116477
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA  24 HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116478
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA ACTION HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116480
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA ACTION
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116481
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA FAMILY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116483
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA PREMIEREN HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116484
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116485
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY BEST OF HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116486
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY BEST OF
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116487
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA FAMILY
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116488
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY ATLANTIC HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116489
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY KRIMI
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116490
-#EXTINF:-1 group-title="Kino HD",DE-4K:  SKY ONE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116491
-#EXTINF:-1 group-title="Kino HD",DE-4K: TNT COMEDY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116492
-#EXTINF:-1 group-title="Kino HD",DE-4K: SKY CINEMA THRILLER HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116493
-#EXTINF:-1 group-title="Kino HD",DE-4K: TNT FILM HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116494
-#EXTINF:-1 group-title="Unterhaltung",=====  UNTERHALTUNG  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: SYFY HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116467
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: TNT SERIE HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116468
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: 13TH STREET HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116470
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: HEIMATKANAL
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116471
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: KINOWELT TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116472
-#EXTINF:-1 group-title="Unterhaltung",DE-4K: ROMANCE TV
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116473
-#EXTINF:-1 group-title="SKY SELECT",=====  SKY SELECT  =====
-https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 group-title="SKY SELECT",DE-4K: ONE 1
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116496
-#EXTINF:-1 group-title="SKY SELECT",DE-4K: KABEL EINS CLASSICS HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116498
-#EXTINF:-1 group-title="SKY SELECT",DE-4K: SKY CINEMA SPECIAL HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116499
-#EXTINF:-1 group-title="SKY SELECT",DE-4K: BR FERNSEHEN SUD HD
-http://sansat.net:88/AVDO/LTZRBy0jFEiMdQf/116501
+#EXTINF:-1 group-title="ENTERTAINMENT",DE:-----|ENTERTAINMENT|-------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60654
+#EXTINF:-1 group-title="ENTERTAINMENT",------|German|------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2683
+#EXTINF:-1 group-title="ENTERTAINMENT",DE001:1.2.3 TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2682
+#EXTINF:-1 group-title="ENTERTAINMENT",DE002:13TH STREET
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2681
+#EXTINF:-1 group-title="ENTERTAINMENT",DE003:3 SAT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2680
+#EXTINF:-1 group-title="ENTERTAINMENT",DE005:ANIXE SERIES
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2678
+#EXTINF:-1 group-title="ENTERTAINMENT",DE006:ARD ALPHA
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2677
+#EXTINF:-1 group-title="ENTERTAINMENT",DE007:ARD DAS ERSTE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2676
+#EXTINF:-1 group-title="ENTERTAINMENT",DE008:ARTE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2675
+#EXTINF:-1 group-title="ENTERTAINMENT",DE009:ATV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2674
+#EXTINF:-1 group-title="ENTERTAINMENT",DE012:BADEN TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2671
+#EXTINF:-1 group-title="ENTERTAINMENT",DE013:BIBEL TV IMPULS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2670
+#EXTINF:-1 group-title="ENTERTAINMENT",DE014:BILD TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2669
+#EXTINF:-1 group-title="ENTERTAINMENT",DE015:BON GUSTO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2668
+#EXTINF:-1 group-title="ENTERTAINMENT",DE017:BR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2666
+#EXTINF:-1 group-title="ENTERTAINMENT",DE018:CAMPUS TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2665
+#EXTINF:-1 group-title="ENTERTAINMENT",DE021:COMEDY CENTRAL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2662
+#EXTINF:-1 group-title="ENTERTAINMENT",DE023:DAS ERSTE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2660
+#EXTINF:-1 group-title="ENTERTAINMENT",DE030:DEUTSCHES MUSIK
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2653
+#EXTINF:-1 group-title="ENTERTAINMENT",DE038:DW TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2645
+#EXTINF:-1 group-title="ENTERTAINMENT",DE039:E! ENTERTAINMENT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2644
+#EXTINF:-1 group-title="ENTERTAINMENT",DE040:EAGLE ENTDECKERNATUR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2643
+#EXTINF:-1 group-title="ENTERTAINMENT",DE041:EAGLE PEPPA WUTZ
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2642
+#EXTINF:-1 group-title="ENTERTAINMENT",DE048:GEO TELEVISION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2635
+#EXTINF:-1 group-title="ENTERTAINMENT",DE049:GOLDSTAR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2634
+#EXTINF:-1 group-title="ENTERTAINMENT",DE050:HEIMAT KANAL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2633
+#EXTINF:-1 group-title="ENTERTAINMENT",DE053:HR FERNSEHEN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2630
+#EXTINF:-1 group-title="ENTERTAINMENT",DE054:JUKEBOX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2629
+#EXTINF:-1 group-title="ENTERTAINMENT",DE055:KABEL 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2628
+#EXTINF:-1 group-title="ENTERTAINMENT",DE056:KABEL 1 CLASSICS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2627
+#EXTINF:-1 group-title="ENTERTAINMENT",DE057:KABEL 1 DOKU
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2626
+#EXTINF:-1 group-title="ENTERTAINMENT",DE058:KIKA
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2625
+#EXTINF:-1 group-title="ENTERTAINMENT",DE059:KINOWELT TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2624
+#EXTINF:-1 group-title="ENTERTAINMENT",DE060:KRONE HIT TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2623
+#EXTINF:-1 group-title="ENTERTAINMENT",DE061:LIGHT CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2622
+#EXTINF:-1 group-title="ENTERTAINMENT",DE080:MDR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29204
+#EXTINF:-1 group-title="ENTERTAINMENT",DE081:MEN IN BLACK CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29203
+#EXTINF:-1 group-title="ENTERTAINMENT",DE082:MOTORVISION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29202
+#EXTINF:-1 group-title="ENTERTAINMENT",DE083:MTV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29201
+#EXTINF:-1 group-title="ENTERTAINMENT",DE084:MTV 00S
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29200
+#EXTINF:-1 group-title="ENTERTAINMENT",DE085:MTV LIVE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29199
+#EXTINF:-1 group-title="ENTERTAINMENT",DE086:MTV HITS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29198
+#EXTINF:-1 group-title="ENTERTAINMENT",DE087:MELODIE TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29197
+#EXTINF:-1 group-title="ENTERTAINMENT",DE088:MTV 80S
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29196
+#EXTINF:-1 group-title="ENTERTAINMENT",DE089:MTV DANCE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29195
+#EXTINF:-1 group-title="ENTERTAINMENT",DE090:MTV MUSIC 24
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29194
+#EXTINF:-1 group-title="ENTERTAINMENT",DE091:NTV HEVC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29193
+#EXTINF:-1 group-title="ENTERTAINMENT",DE093:N24 DOKU
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29191
+#EXTINF:-1 group-title="ENTERTAINMENT",DE096:NDR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29188
+#EXTINF:-1 group-title="ENTERTAINMENT",DE101:NITRO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29183
+#EXTINF:-1 group-title="ENTERTAINMENT",DE102:OBERPFALZ TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29182
+#EXTINF:-1 group-title="ENTERTAINMENT",DE103:OE24.TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29181
+#EXTINF:-1 group-title="ENTERTAINMENT",DE104:OK DESSAU
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29180
+#EXTINF:-1 group-title="ENTERTAINMENT",DE105:ONE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29179
+#EXTINF:-1 group-title="ENTERTAINMENT",DE106:ONE MUSIC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29178
+#EXTINF:-1 group-title="ENTERTAINMENT",DE107:ORF 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29177
+#EXTINF:-1 group-title="ENTERTAINMENT",DE108:ORF 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29176
+#EXTINF:-1 group-title="ENTERTAINMENT",DE110:PHOENIX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29174
+#EXTINF:-1 group-title="ENTERTAINMENT",DE112:PLANET
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29172
+#EXTINF:-1 group-title="ENTERTAINMENT",DE113:PRO 7
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29171
+#EXTINF:-1 group-title="ENTERTAINMENT",DE114:PRO 7 FUN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29170
+#EXTINF:-1 group-title="ENTERTAINMENT",DE115:PRO 7 MAXX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29169
+#EXTINF:-1 group-title="ENTERTAINMENT",DE116:PULS 4
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29168
+#EXTINF:-1 group-title="ENTERTAINMENT",DE117:QVC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29167
+#EXTINF:-1 group-title="ENTERTAINMENT",DE118:QVC ZWEI
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29166
+#EXTINF:-1 group-title="ENTERTAINMENT",DE119:RFH TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29165
+#EXTINF:-1 group-title="ENTERTAINMENT",DE120:RBB
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29164
+#EXTINF:-1 group-title="ENTERTAINMENT",DE121:RFO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29163
+#EXTINF:-1 group-title="ENTERTAINMENT",DE122:RNF
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29162
+#EXTINF:-1 group-title="ENTERTAINMENT",DE124:ROMANCE TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29160
+#EXTINF:-1 group-title="ENTERTAINMENT",DE125:RTL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29159
+#EXTINF:-1 group-title="ENTERTAINMENT",DE126:RTL CRIME
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29158
+#EXTINF:-1 group-title="ENTERTAINMENT",DE127:RTL LIVING
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29157
+#EXTINF:-1 group-title="ENTERTAINMENT",DE128:RTL LUXEMBOURG
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29156
+#EXTINF:-1 group-title="ENTERTAINMENT",DE129:RTL LUXEMBOURG 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29155
+#EXTINF:-1 group-title="ENTERTAINMENT",DE130:RTL NITRO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29154
+#EXTINF:-1 group-title="ENTERTAINMENT",DE131:RTL PASSION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29153
+#EXTINF:-1 group-title="ENTERTAINMENT",DE132:RTL UP
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29152
+#EXTINF:-1 group-title="ENTERTAINMENT",DE133:RTL ZWEI
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29151
+#EXTINF:-1 group-title="ENTERTAINMENT",DE134:SACHSENEINS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29150
+#EXTINF:-1 group-title="ENTERTAINMENT",DE135:SAT 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29149
+#EXTINF:-1 group-title="ENTERTAINMENT",DE136:SAT 1 EMOTIONS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29148
+#EXTINF:-1 group-title="ENTERTAINMENT",DE137:SAT 1 GOLD
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29147
+#EXTINF:-1 group-title="ENTERTAINMENT",DE138:SERVUS TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29146
+#EXTINF:-1 group-title="ENTERTAINMENT",DE139:SILVERLINE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29145
+#EXTINF:-1 group-title="ENTERTAINMENT",DE140:SIXX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29144
+#EXTINF:-1 group-title="ENTERTAINMENT",DE141:SKY 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29143
+#EXTINF:-1 group-title="ENTERTAINMENT",DE214:SONNENKLAR TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29068
+#EXTINF:-1 group-title="ENTERTAINMENT",DE217:SPIEGEL GESCHICHTE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29065
+#EXTINF:-1 group-title="ENTERTAINMENT",DE218:SPIEGEL WISSEN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29064
+#EXTINF:-1 group-title="ENTERTAINMENT",DE223:SR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29059
+#EXTINF:-1 group-title="ENTERTAINMENT",DE225:STINGRAY CLASSICA
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29058
+#EXTINF:-1 group-title="ENTERTAINMENT",DE226:SUPER RTL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29056
+#EXTINF:-1 group-title="ENTERTAINMENT",DE227:SWR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29055
+#EXTINF:-1 group-title="ENTERTAINMENT",DE229:TAGESSCHAU 24
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29053
+#EXTINF:-1 group-title="ENTERTAINMENT",DE230:TASTEMADE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29052
+#EXTINF:-1 group-title="ENTERTAINMENT",DE231:TELE 5
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29051
+#EXTINF:-1 group-title="ENTERTAINMENT",DE237:THE LORD OF THE RINGS CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29045
+#EXTINF:-1 group-title="ENTERTAINMENT",DE240:TOGGO PLUS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29042
+#EXTINF:-1 group-title="ENTERTAINMENT",DE241:TOM AND JERRY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29041
+#EXTINF:-1 group-title="ENTERTAINMENT",DE242:TRANSFORMERS CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29040
+#EXTINF:-1 group-title="ENTERTAINMENT",DE243:TV INGOLSTADT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29039
+#EXTINF:-1 group-title="ENTERTAINMENT",DE244:TV OBERFRANKEN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29038
+#EXTINF:-1 group-title="ENTERTAINMENT",DE246:VOX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29036
+#EXTINF:-1 group-title="ENTERTAINMENT",DE247:VOXUP
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29035
+#EXTINF:-1 group-title="ENTERTAINMENT",DE252:WDR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29030
+#EXTINF:-1 group-title="ENTERTAINMENT",DE253:WELT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29029
+#EXTINF:-1 group-title="ENTERTAINMENT",DE254:WELT DER WUNDER
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29028
+#EXTINF:-1 group-title="ENTERTAINMENT",DE255:XITE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29027
+#EXTINF:-1 group-title="ENTERTAINMENT",DE256:ZDF
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29026
+#EXTINF:-1 group-title="ENTERTAINMENT",DE257:ZDF INFO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29025
+#EXTINF:-1 group-title="ENTERTAINMENT",DE258:ZDF NEO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29024
+#EXTINF:-1 group-title="ENTERTAINMENT",DE260:RTL 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29022
+#EXTINF:-1 group-title="SPORT",DE:-----|SPORT|---------------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60652
+#EXTINF:-1 group-title="SPORT",DE010:AUTO MOTOR SPORT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2673
+#EXTINF:-1 group-title="SPORT",DE024:DAZN 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2659
+#EXTINF:-1 group-title="SPORT",DE025:DAZN 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2658
+#EXTINF:-1 group-title="SPORT",DE026:DAZN 1 BAR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2657
+#EXTINF:-1 group-title="SPORT",DE027:DAZN 2 BAR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2656
+#EXTINF:-1 group-title="SPORT",DE028:DAZN 1 HEVC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2655
+#EXTINF:-1 group-title="SPORT",DE029:DAZN 2 HEVC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2654
+#EXTINF:-1 group-title="SPORT",DE043:EUROSPORT 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2640
+#EXTINF:-1 group-title="SPORT",DE044:EUROSPORT 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2639
+#EXTINF:-1 group-title="SPORT",DE045:EUROSPORT 2 XTRA
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2638
+#EXTINF:-1 group-title="SPORT",DE062:MAGENTA SPORT 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2621
+#EXTINF:-1 group-title="SPORT",DE063:MAGENTA SPORT 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2620
+#EXTINF:-1 group-title="SPORT",DE064:MAGENTA SPORT 3
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2619
+#EXTINF:-1 group-title="SPORT",DE065:MAGENTA SPORT 4
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2618
+#EXTINF:-1 group-title="SPORT",DE066:MAGENTA SPORT 5
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2617
+#EXTINF:-1 group-title="SPORT",DE067:MAGENTA SPORT 6
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2616
+#EXTINF:-1 group-title="SPORT",DE068:MAGENTA SPORT 7
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2615
+#EXTINF:-1 group-title="SPORT",DE069:MAGENTA SPORT 8
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2614
+#EXTINF:-1 group-title="SPORT",DE070:MAGENTA SPORT 9
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2613
+#EXTINF:-1 group-title="SPORT",DE071:MAGENTA SPORT 10
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2612
+#EXTINF:-1 group-title="SPORT",DE072:MAGENTA SPORT 11
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2611
+#EXTINF:-1 group-title="SPORT",DE073:MAGENTA SPORT 12
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2610
+#EXTINF:-1 group-title="SPORT",DE074:MAGENTA SPORT 13
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2609
+#EXTINF:-1 group-title="SPORT",DE075:MAGENTA SPORT 14
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2608
+#EXTINF:-1 group-title="SPORT",DE076:MAGENTA SPORT 15
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2607
+#EXTINF:-1 group-title="SPORT",DE077:MAGENTA SPORT 16
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2606
+#EXTINF:-1 group-title="SPORT",DE078:MAGENTA SPORT 17
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2605
+#EXTINF:-1 group-title="SPORT",DE079:MAGENTA SPORT 18
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29205
+#EXTINF:-1 group-title="SPORT",DE109:ORF SPORT+
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29175
+#EXTINF:-1 group-title="SPORT",DE182:SKY SPORT 1 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29100
+#EXTINF:-1 group-title="SPORT",DE183:SKY SPORT 2 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29099
+#EXTINF:-1 group-title="SPORT",DE184:SKY SPORT 3 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29098
+#EXTINF:-1 group-title="SPORT",DE185:SKY SPORT 4 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29097
+#EXTINF:-1 group-title="SPORT",DE186:SKY SPORT 5 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29096
+#EXTINF:-1 group-title="SPORT",DE187:SKY SPORT 6 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29095
+#EXTINF:-1 group-title="SPORT",DE188:SKY SPORT 7 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29094
+#EXTINF:-1 group-title="SPORT",DE189:SKY SPORT 8 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29093
+#EXTINF:-1 group-title="SPORT",DE190:SKY SPORT 9 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29092
+#EXTINF:-1 group-title="SPORT",DE191:SKY SPORT 10 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29091
+#EXTINF:-1 group-title="SPORT",DE192:SKY SPORT AUSTRIA 1 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29090
+#EXTINF:-1 group-title="SPORT",DE193:SKY SPORT AUSTRIA 2 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29089
+#EXTINF:-1 group-title="SPORT",DE194:SKY SPORT AUSTRIA 3 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29088
+#EXTINF:-1 group-title="SPORT",DE195:SKY SPORT AUSTRIA 4 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29087
+#EXTINF:-1 group-title="SPORT",DE196:SKY SPORT AUSTRIA 5 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29086
+#EXTINF:-1 group-title="SPORT",DE197:SKY SPORT BUNDESLIGA 1 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29085
+#EXTINF:-1 group-title="SPORT",DE198:SKY SPORT BUNDESLIGA 2 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29084
+#EXTINF:-1 group-title="SPORT",DE199:SKY SPORT BUNDESLIGA 3 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29083
+#EXTINF:-1 group-title="SPORT",DE200:SKY SPORT BUNDESLIGA 4 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29082
+#EXTINF:-1 group-title="SPORT",DE201:SKY SPORT BUNDESLIGA 5 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29081
+#EXTINF:-1 group-title="SPORT",DE202:SKY SPORT BUNDESLIGA 6 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29080
+#EXTINF:-1 group-title="SPORT",DE203:SKY SPORT BUNDESLIGA 7 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29079
+#EXTINF:-1 group-title="SPORT",DE204:SKY SPORT BUNDESLIGA 8 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29078
+#EXTINF:-1 group-title="SPORT",DE205:SKY SPORT BUNDESLIGA 9 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29077
+#EXTINF:-1 group-title="SPORT",DE206:SKY SPORT BUNDESLIGA 10 (MATCH TIME)
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29076
+#EXTINF:-1 group-title="SPORT",DE207:SKY SPORTS F1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29075
+#EXTINF:-1 group-title="SPORT",DE208:SKY SPORT GOLF
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29074
+#EXTINF:-1 group-title="SPORT",DE209:SKY SPORT MIX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29073
+#EXTINF:-1 group-title="SPORT",DE211:SKY SPORT PREMIER LEAGUE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29071
+#EXTINF:-1 group-title="SPORT",DE212:SKY SPORT TENNIS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29070
+#EXTINF:-1 group-title="SPORT",DE213:SKY SPORT TOP EVENT
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29069
+#EXTINF:-1 group-title="SPORT",DE219:SPORT DIGITAL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29063
+#EXTINF:-1 group-title="SPORT",DE220:SPORT1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29062
+#EXTINF:-1 group-title="SPORT",DE221:SPORT1+
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29061
+#EXTINF:-1 group-title="SPORT",DE222:SPORTDIGITALL FUSSBALL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29060
+#EXTINF:-1 group-title="SPORT",DE232:TELEKOM BUNDESLIGA 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29050
+#EXTINF:-1 group-title="SPORT",DE233:TELEKOM BUNDESLIGA 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29049
+#EXTINF:-1 group-title="SPORT",DE234:TELEKOM BUNDESLIGA 3
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29048
+#EXTINF:-1 group-title="SPORT",DE235:TELEKOM BUNDESLIGA 4
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29047
+#EXTINF:-1 group-title="SPORT",DE236:TRACE SPORT STARS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29046
+#EXTINF:-1 group-title="SPORT",DE239:UFC FIGHT PASS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29043
+#EXTINF:-1 group-title="KINO",DE:-----|CINEMA|--------------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60656
+#EXTINF:-1 group-title="KINO",DE011:AXN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2672
+#EXTINF:-1 group-title="KINO",DE020:CINE STAR ACTION HD
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2663
+#EXTINF:-1 group-title="KINO",DE033:DISNEY CINEMAGIC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2650
+#EXTINF:-1 group-title="KINO",DE036:DISNEY PLUS FILM
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2647
+#EXTINF:-1 group-title="KINO",DE046:CINE STAR ANIMATION HD
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2637
+#EXTINF:-1 group-title="KINO",DE047:GAME OF THRONES CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2636
+#EXTINF:-1 group-title="KINO",DE111:PIRATES OF THE CARIBBEAN CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29173
+#EXTINF:-1 group-title="KINO",DE123:ROCKY CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29161
+#EXTINF:-1 group-title="KINO",DE142:SKY ACTION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29142
+#EXTINF:-1 group-title="KINO",DE144:SKY CINEMA 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29140
+#EXTINF:-1 group-title="KINO",DE145:SKY CINEMA 24
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29139
+#EXTINF:-1 group-title="KINO",DE146:SKY CINEMA ACTION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29137
+#EXTINF:-1 group-title="KINO",DE147:SKY CINEMA BEST
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29136
+#EXTINF:-1 group-title="KINO",DE148:SKY CINEMA BEST OF
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29135
+#EXTINF:-1 group-title="KINO",DE149:SKY CINEMA CLASSICS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29134
+#EXTINF:-1 group-title="KINO",DE150:SKY CINEMA COMEDY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29133
+#EXTINF:-1 group-title="KINO",DE151:SKY CINEMA CRIME
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29132
+#EXTINF:-1 group-title="KINO",DE152:SKY CINEMA DOCUMENTARIES
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29131
+#EXTINF:-1 group-title="KINO",DE153:SKY CINEMA EMOTION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29130
+#EXTINF:-1 group-title="KINO",DE154:SKY CINEMA FAMILY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29129
+#EXTINF:-1 group-title="KINO",DE155:SKY CINEMA FUN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29128
+#EXTINF:-1 group-title="KINO",DE156:SKY CINEMA HITS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29127
+#EXTINF:-1 group-title="KINO",DE157:SKY CINEMA NOSTALGIE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29126
+#EXTINF:-1 group-title="KINO",DE158:SKY CINEMA PREMIEREN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29125
+#EXTINF:-1 group-title="KINO",DE159:SKY CINEMA PREMIEREN +24
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29124
+#EXTINF:-1 group-title="KINO",DE160:SKY CINEMA SPECIAL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29123
+#EXTINF:-1 group-title="KINO",DE161:SKY CINEMA THRILLER
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29122
+#EXTINF:-1 group-title="KINO",DE162:SKY KRIMI
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29121
+#EXTINF:-1 group-title="KINO",DE164:SKY NOSTALGIE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29119
+#EXTINF:-1 group-title="KINO",DE165:SKY POPCORN SELECT 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29118
+#EXTINF:-1 group-title="KINO",DE166:SKY POPCORN SELECT 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29116
+#EXTINF:-1 group-title="KINO",DE167:SKY POPCORN SELECT 3
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29115
+#EXTINF:-1 group-title="KINO",DE168:SKY POPCORN SELECT 4
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29114
+#EXTINF:-1 group-title="KINO",DE169:SKY POPCORN SELECT 5
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29113
+#EXTINF:-1 group-title="KINO",DE170:SKY POPCORN SELECT 6
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29112
+#EXTINF:-1 group-title="KINO",DE171:SKY REPLAY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29111
+#EXTINF:-1 group-title="KINO",DE172:SKY SELECT 1
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29110
+#EXTINF:-1 group-title="KINO",DE173:SKY SELECT 2
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29109
+#EXTINF:-1 group-title="KINO",DE174:SKY SELECT 3
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29108
+#EXTINF:-1 group-title="KINO",DE175:SKY SELECT 4
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29107
+#EXTINF:-1 group-title="KINO",DE176:SKY SELECT 5
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29106
+#EXTINF:-1 group-title="KINO",DE177:SKY SELECT 6
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29105
+#EXTINF:-1 group-title="KINO",DE178:SKY SELECT 7
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29104
+#EXTINF:-1 group-title="KINO",DE179: SKY SELECT 8
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29103
+#EXTINF:-1 group-title="KINO",DE180:SKY SELECT 9
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29102
+#EXTINF:-1 group-title="KINO",DE181:SKY SELECT 10
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29101
+#EXTINF:-1 group-title="KINO",DE215:SONY AXN
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29067
+#EXTINF:-1 group-title="KINO",DE216:SONY CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29066
+#EXTINF:-1 group-title="KINO",DE224:STAR WARS CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29057
+#EXTINF:-1 group-title="KINO",DE228:SYFY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29054
+#EXTINF:-1 group-title="KINO",DE245:UNIVERSAL CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29037
+#EXTINF:-1 group-title="KINO",DE248:WAIDWERK TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29034
+#EXTINF:-1 group-title="KINO",DE249:WARNER COMEDY
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29033
+#EXTINF:-1 group-title="KINO",DE250:WARNER TV FILM
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29032
+#EXTINF:-1 group-title="KINO",DE251:WARNER TV SERIE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29031
+#EXTINF:-1 group-title="DOKU",DE:-----|DOCUMENTARY|---------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60653
+#EXTINF:-1 group-title="DOKU",DE004:ANIMAL PLANET
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2679
+#EXTINF:-1 group-title="DOKU",DE022:CRIME & INVESTIGATION
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2661
+#EXTINF:-1 group-title="DOKU",DE031:DISCOVERY CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2652
+#EXTINF:-1 group-title="DOKU",DE037:DMAX
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2646
+#EXTINF:-1 group-title="DOKU",DE051:HGTV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2632
+#EXTINF:-1 group-title="DOKU",DE052:HISTORY CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2631
+#EXTINF:-1 group-title="DOKU",DE094:NAT GEO
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29190
+#EXTINF:-1 group-title="DOKU",DE095:NAT GEO WILD
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29189
+#EXTINF:-1 group-title="DOKU",DE143:SKY ARTS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29141
+#EXTINF:-1 group-title="DOKU",DE163:SKY NATURE
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29120
+#EXTINF:-1 group-title="DOKU",DE238:TLC
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29044
+#EXTINF:-1 group-title="Nachrichten",DE:-----|NEWS|----------------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60657
+#EXTINF:-1 group-title="Nachrichten",DE042:EURONEWS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2641
+#EXTINF:-1 group-title="Nachrichten",DE092:N-TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29192
+#EXTINF:-1 group-title="Nachrichten",DE210:SKY SPORT NEWS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29072
+#EXTINF:-1 group-title="Kinder",DE:-----|KIDS|----------------------
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/60655
+#EXTINF:-1 group-title="Kinder",DE016:BOOMERANG
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2667
+#EXTINF:-1 group-title="Kinder",DE019:CARTOON NETWORK
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2664
+#EXTINF:-1 group-title="Kinder",DE032:DISNEY CHANNEL
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2651
+#EXTINF:-1 group-title="Kinder",DE034:DISNEY JUNIOR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2649
+#EXTINF:-1 group-title="Kinder",DE035:DISNEY XD
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/2648
+#EXTINF:-1 group-title="Kinder",DE097:NICK JR
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29187
+#EXTINF:-1 group-title="Kinder",DE098:NICK KIDS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29186
+#EXTINF:-1 group-title="Kinder",DE099:NICKELODEON
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29185
+#EXTINF:-1 group-title="Kinder",DE100:NICKTOONS
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29184
+#EXTINF:-1 group-title="Kinder",DE259:BABY TV
+http://muka03.wanicelife.com:8880/29ca10313n11/asdf23r23/29023
