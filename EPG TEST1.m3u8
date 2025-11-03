@@ -1,0 +1,34 @@
+#EXTM3U url-tvg="https://teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 tvg-id="otrtelecom.ru" tvg-name="ОТР HD" tvg-logo="https://epg.it999.ru/img/otr.png",ОТР HD
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/20018/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал FHD" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал FHD
+#EXTGRP:Общие
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал HD" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал HD
+#EXTINF:0 tvg-rec="7",Первый канал HD
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/204/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/127/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал +2" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал +2
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/714/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал +4" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал +4
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/6021/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал +4 HD" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал +4 HD
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/15117/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал +6" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал +6
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/6037/index.m3u8
+#EXTINF:-1 tvg-id="firstchannel.ru" tvg-name="Первый канал +8" tvg-logo="https://epg.it999.ru/img/1tv.png",Первый канал +8
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/6050/index.m3u8
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1 FHD" tvg-logo="https://epg.it999.ru/img/russia1.png",Россия 1 FHD
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/2409/index.m3u8
+#EXTINF:-1 tvg-id="russia1.ru" tvg-name="Россия 1 HD" tvg-logo="https://epg.it999.ru/img/russia1.png",Россия 1 HD
+#EXTGRP:Общие
+http://9b3aee33.ottrast.com/iptv/3TMP5FWLQDVL6H/205/index.m3u8
